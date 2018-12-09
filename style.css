@@ -12,7 +12,7 @@ body
     background: #000;
 }
 
-.main-container
+/*.main-container
 {
   position: fixed;
   size: 100%;
@@ -23,7 +23,7 @@ body
     position: absolute; 
     float: right;
 
-}
+}*/
 
 .column {
   float: left;

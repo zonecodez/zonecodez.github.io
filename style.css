@@ -15,6 +15,7 @@ body
 .main-container
 {
   position: fixed;
+  size: 100%;
 }
 
 .main-text

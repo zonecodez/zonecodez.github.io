@@ -11,6 +11,18 @@ body
 {
     background: #000;
 }
+
+.main-container
+{
+  position: fixed;
+}
+
+.main-text
+{
+    position: absolute; 
+    right: 0;
+}
+
 .title-container
 {
     position: absolute;
@@ -126,3 +138,4 @@ span
 
     filter: alpha(opacity=100);
 }
+

@@ -23,6 +23,12 @@ body
     right: 0;
 }
 
+.WordCloud
+{
+  position: absolute;
+  left: 0;
+}
+
 .title-container
 {
     position: absolute;

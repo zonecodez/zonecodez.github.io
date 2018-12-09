@@ -33,7 +33,7 @@ body
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: grid;
+  display: table;
   clear: both;
   width: 100%;
   float: right;

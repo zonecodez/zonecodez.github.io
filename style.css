@@ -61,6 +61,20 @@ body
   margin-bottom: 0.1em;
 }
 
+@keyframes panning {
+  0% {
+    background-position: 0 45%;
+  }
+
+  50% {
+    background-position: 100% 30%;
+  }
+
+  100% {
+    background-position: 0 45%;
+  }
+}
+
 #vidFrame
 {
   top-padding: 10%;

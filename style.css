@@ -25,6 +25,11 @@ body
 
 }*/
 
+#vidFrame
+{
+  top-padding: 10%;
+}
+
 .column {
   float: left;
   width: 50%;
